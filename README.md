@@ -1,4 +1,4 @@
-# 2020AIChallenge_Solution
+# 2020AI Challenge_Solution
 본 팀은 2020년 <a href="http://www.aichallenge.or.kr/main/main.do">nipa AI 챌린지</a>에 참가해,<br>
 400팀 중 30팀 안에 최종 선정되어 <strong>1.4억원</strong>의 지원금을 수령하였습니다.
 
