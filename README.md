@@ -3,7 +3,6 @@
 아래는 해당 대회에서 저희 팀이 활용한 코드입니다.
 
 <h2>[과제 03] 얼굴 다각도 인식 및 조회 모델 개발</h2>
-![3th_prob](/img/3th_prob.png)
 <img src="img/3th_prob.png"></img>
 <ul>
   <li><strong>과제설명</strong></li>
@@ -13,6 +12,7 @@
 </ul>
 
 <h2>[과제 16]  어린이 음성데이터에 나오는 문장을 텍스트 형태로 변환</h2>
+<img src="img/16th_prob.png"></img>
 <ul>
   <li><strong>과제설명</strong></li>
     주어진 어린아이의 음성데이터를 학습시켜 음성데이터의 문장을 텍스트 형태로 변환하는 STT 모델을 개발하여 성능 비교
@@ -21,6 +21,7 @@
 </ul>
 
 <h2>[과제 19] 우주 전파 재난 대비를 위한 예측 모델 개발</h2>
+<img src="img/19th_prob.png"></img>
 <ul>
   <li><strong>과제설명</strong></li>
     태양 활동에 의해 지구로 유입되는 것들 중 상대적으로 지구에 먼저 도착하는 X-ray, SWE, EPM을 기반으로 이후 지구에 유입될 것으로 예상되는 Proton입자의 양을 예측
