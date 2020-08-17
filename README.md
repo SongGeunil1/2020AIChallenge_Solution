@@ -6,9 +6,9 @@
 
 <h5>팀원</h5>
 <ul>
-  <li>송근일 - github 보기</li>
-  <li>박중민 - github 보기</li>
-  <li>김동화 - github 보기</li>
+  <li>송근일 - <a href="">github 보기</a></li>
+  <li>박중민 - <a href="">github 보기</a></li>
+  <li>김동화 - <a href="https://drive.google.com/file/d/1QIsz8xFQ40qCvAjkue4b4DN95ANPFMkZ/view" target="_blank"><img src="http://dsba.cafe24.com/wp-content/uploads/2020/03/cv-file-interface-symbol.png" width="20px"></a></li>
 </ul>
 
 <h2>[과제 03] 얼굴 다각도 인식 및 조회 모델 개발</h2>
