@@ -16,7 +16,7 @@
       <img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="20px;">
     </a>
     <a href="https://donghwa-kim.github.io/" target="_blank">
-      <img src="https://cdn0.iconfinder.com/data/icons/octicons/2857/logo-github-512.png" width="20px;">
+      <img src="https://cdn1.iconfinder.com/data/icons/picons-social/57/github-512.png" width="20px;">
     </a>
   </li>
 </ul>
