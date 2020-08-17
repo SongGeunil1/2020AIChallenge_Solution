@@ -4,6 +4,13 @@
 
 해당 레포는 해당 대회에서 저희 팀이 활용한 코드입니다.
 
+<h5>팀원</h5>
+<ul>
+  <li>송근일 - github 보기</li>
+  <li>박중민 - github 보기</li>
+  <li>김동화 - github 보기</li>
+</ul>
+
 <h2>[과제 03] 얼굴 다각도 인식 및 조회 모델 개발</h2>
 <img src="img/3th_prob.png" height="100"></img>
 <ul>
