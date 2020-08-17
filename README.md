@@ -2,14 +2,14 @@
 2020년 nipa에서 개최한 AI 챌린지 수상 코드를 올려놓은 레포(상금 1.6억원)
 
 <h2>[과제 3] 얼굴 다각도 인식 및 조회 모델 개발</h2>
-![3th_prob](/img/3th_prob.png)
+ ![3th_prob](/img/3th_prob.png)
 
 <h2>[과제 16] 어린이 음성데이터에 나오는 문장을 텍스트 형태로 변환</h2>
-![16th_prob](/img/16th_prob.png)
+ ![16th_prob](/img/16th_prob.png)
 
 
 <h2>[과제 19] 우주 전파 재난 대비를 위한 예측 모델 개발</h2>
-![19th_prob](/img/19th_prob.png)
+ ![19th_prob](/img/19th_prob.png)
 <ul>
   <li><strong>주제</strong></li>
     우주 전파 재난 대비를 위한 예측 모델 개발
