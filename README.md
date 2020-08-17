@@ -8,16 +8,16 @@
 <ul>
   <li>송근일 - 
    <a href="https://github.com/SongGeunil1" target="_blank">
-     <img src="https://cdn1.iconfinder.com/data/icons/picons-social/57/github-512.png" width="50px;">
+     Github
    </a></li>
   <li>박중민 - 
    <a href="https://github.com/joongminpark/" target="_blank">
-     <img src="https://cdn1.iconfinder.com/data/icons/picons-social/57/github-512.png" width="50px;">
+     Github
    </a>
   </li>
   <li>김동화 - 
     <a href="https://donghwa-kim.github.io/" target="_blank">
-      <img src="https://cdn1.iconfinder.com/data/icons/picons-social/57/github-512.png" width="50px;">
+      Github
     </a>
   </li>
 </ul>
