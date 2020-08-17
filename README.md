@@ -4,7 +4,7 @@
 
 <h2>[과제 03] 얼굴 다각도 인식 및 조회 모델 개발</h2>
 <ul>
-  ![alt text](https://github.com/SongGeunil1/2020AIChallenge_Solution/blob/master/img/16th_prob.png)
+  ![alt text](https://github.com/SongGeunil1/2020AIChallenge_Solution/blob/master/img/16th_prob.png?raw=true)
   <li><strong>과제설명</strong></li>
     주어진 다각도의 (90도 -정면 및 측면) 얼굴 이미지를 학습하여, 임의의 측면얼굴 주어졌을 경우, 동일인의 정면 얼굴을 조회하는 모델을 개발하여 성능 비교
   <li><strong>활용 모델 및 기술</strong></li>
