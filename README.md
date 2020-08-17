@@ -8,7 +8,9 @@
 <ul>
   <li>송근일 - <a href="">github 보기</a></li>
   <li>박중민 - <a href="">github 보기</a></li>
-  <li>김동화 - <a href="https://drive.google.com/file/d/1QIsz8xFQ40qCvAjkue4b4DN95ANPFMkZ/view" target="_blank"><img src="http://dsba.cafe24.com/wp-content/uploads/2020/03/cv-file-interface-symbol.png" width="20px"></a></li>
+  <li>김동화 - <a href="https://drive.google.com/file/d/1QIsz8xFQ40qCvAjkue4b4DN95ANPFMkZ/view">
+    <img src="http://dsba.cafe24.com/wp-content/uploads/2020/03/cv-file-interface-symbol.png" width="20px">
+    </a><a href="http://linkedin.com/in/donghwa-kim-3bb705138" target="_blank"><img src="http://dsba.cafe24.com/wp-content/uploads/2020/03/linkedin.png" width="20px;"></a><a href="https://donghwa-kim.github.io/" target="_blank"><img src="http://dsba.cafe24.com/wp-content/uploads/2020/03/blog-1.png" width="20px;"></a></li>
 </ul>
 
 <h2>[과제 03] 얼굴 다각도 인식 및 조회 모델 개발</h2>
