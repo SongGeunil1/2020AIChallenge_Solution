@@ -6,7 +6,7 @@
 
 <h2>[과제 16] 어린이 음성데이터에 나오는 문장을 텍스트 형태로 변환</h2>
  ![16th_prob](/img/16th_prob.png)
-
+![risk_index](/img/risk_index.PNG)
 
 <h2>[과제 19] 우주 전파 재난 대비를 위한 예측 모델 개발</h2>
  ![19th_prob](/img/19th_prob.png)
