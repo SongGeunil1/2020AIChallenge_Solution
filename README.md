@@ -13,7 +13,8 @@
   <li><strong>배경</strong></li>
     태양플레어, 코로나물질방출과 같은 태양활동으로 인해 지구로 유입된 고에너지 proton입자들로 위성장애, 극항로 방사선 피폭, 통신장애 등을 발생시킴
     원인이 되는 Proton 입자는 Traval Time이 다소 긴 편으로 예측에 어려움
-  <li><strong>주관/주최</strong></li>
-    주관: 과학기술정보통신부, 주최: 정보통신산업진흥원
   <li><strong>과제설명</strong></li>
     태양 활동에 의해 지구로 유입되는 것들 중 상대적으로 지구에 먼저 도착하는 X-ray, SWE, EPM을 기반으로 이후 지구에 유입될 것으로 예상되는 Proton입자의 양을 예측
+  <li><strong>활용 모델 및 기술</strong></li>
+    lightgbm, xgboost, catboost, stacking, permutation importance
+</ul>
