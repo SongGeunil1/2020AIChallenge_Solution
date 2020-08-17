@@ -6,15 +6,16 @@
 
 <h5>팀원</h5>
 <ul>
-  <li>송근일 - <a href="">github 보기</a></li>
-  <li>박중민 - <a href="">github 보기</a></li>
+  <li>송근일 - 
+   <a href="https://github.com/SongGeunil1" target="_blank">
+     <img src="https://cdn1.iconfinder.com/data/icons/picons-social/57/github-512.png" width="50px;">
+   </a></li>
+  <li>박중민 - 
+   <a href="https://github.com/joongminpark/" target="_blank">
+     <img src="https://cdn1.iconfinder.com/data/icons/picons-social/57/github-512.png" width="50px;">
+   </a>
+  </li>
   <li>김동화 - 
-    <a href="https://drive.google.com/file/d/1QIsz8xFQ40qCvAjkue4b4DN95ANPFMkZ/view">
-      <img src="http://dsba.cafe24.com/wp-content/uploads/2020/03/cv-file-interface-symbol.png" width="50px;">
-    </a>
-    <a href="http://linkedin.com/in/donghwa-kim-3bb705138" target="_blank">
-      <img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="50px;">
-    </a>
     <a href="https://donghwa-kim.github.io/" target="_blank">
       <img src="https://cdn1.iconfinder.com/data/icons/picons-social/57/github-512.png" width="50px;">
     </a>
