@@ -7,7 +7,7 @@
 
 <h2>19회 대회</h2>
 
-![19th_prob](/img/19th_prob.PNG)
+![19th_prob](/img/19th_prob.png)
 <ul>
   <li><strong>주제</strong></li>
     우주 전파 재난 대비를 위한 예측 모델 개발
