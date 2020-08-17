@@ -1,11 +1,11 @@
 # 2020AIChallenge_Solution
 2020년 nipa에서 개최한 AI 챌린지 수상 코드를 올려놓은 레포(상금 1.6억원)
 
-<strong>3회 대회</strong>
+<h2>3회 대회</h2>
 
-<strong>16회 대회</strong>
+<h2>16회 대회</h2>
 
-<strong>19회 대회</strong>
+<h2>19회 대회</h2>
 <ul>
   <li><strong>주제</strong></li>
     우주 전파 재난 대비를 위한 예측 모델 개발
