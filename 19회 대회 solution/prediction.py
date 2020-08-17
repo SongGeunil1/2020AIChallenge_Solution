@@ -1,25 +1,16 @@
-import argparse
-import torch
-import torchaudio
 import logging
 import os
-from tqdm import tqdm
-import soundfile as sf
 import numpy as np
-import pickle
 from tqdm import tqdm, trange
 import random
-
-
-from src.dataloader import data_loader
-from src.utils import Vocab
-from src.model import CNN2D
-import torch.optim as optim
-# audio
-import librosa
-import torchaudio
-from torch.optim.lr_scheduler import CosineAnnealingLR
-from src.scheduler  import GradualWarmupScheduler
+import lightgbm as lgb
+from sklearn.linear_model import Ridge
+import joblib
+import shutil
+from aifactory.modules import activate, submit
+import pandas as pd
+from sklearn.model_selection import cross_val_score, GridSearchCV, KFold, RandomizedSearchCV, train_test_split
+from sklearn.model_selection import TimeSeriesSplit
 
 logger = logging.getLogger(__name__)
 
