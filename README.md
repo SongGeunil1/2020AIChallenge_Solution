@@ -13,7 +13,7 @@
       <img src="http://dsba.cafe24.com/wp-content/uploads/2020/03/cv-file-interface-symbol.png" width="20px">
     </a>
     <a href="http://linkedin.com/in/donghwa-kim-3bb705138" target="_blank">
-      <img src="http://dsba.cafe24.com/wp-content/uploads/2020/03/linkedin.png" width="20px;">
+      <img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="20px;">
     </a>
     <a href="https://donghwa-kim.github.io/" target="_blank">
       <img src="http://dsba.cafe24.com/wp-content/uploads/2020/03/blog-1.png" width="20px;">
