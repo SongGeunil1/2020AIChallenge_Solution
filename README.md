@@ -3,7 +3,7 @@
 아래는 해당 대회에서 저희 팀이 활용한 코드입니다.
 
 <h2>[과제 03] 얼굴 다각도 인식 및 조회 모델 개발</h2>
-![alt text](https://github.com/SongGeunil1/2020AIChallenge_Solution/blob/master/img/16th_prob.png?raw=true)
+![3th_prob](img/3th_prob.png)
 <ul>
   <li><strong>과제설명</strong></li>
     주어진 다각도의 (90도 -정면 및 측면) 얼굴 이미지를 학습하여, 임의의 측면얼굴 주어졌을 경우, 동일인의 정면 얼굴을 조회하는 모델을 개발하여 성능 비교
