@@ -10,6 +10,10 @@
    <a href="https://github.com/SongGeunil1" target="_blank">
      Github
    </a></li>
+  <li>이인섭 - 
+   <a href="https://github.com/insub789" target="_blank">
+     Github
+   </a></li>
   <li>박중민 - 
    <a href="https://github.com/joongminpark/" target="_blank">
      Github
