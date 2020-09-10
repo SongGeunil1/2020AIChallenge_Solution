@@ -103,7 +103,7 @@ def data_loader(root, phase='train', batch_size=64,):
     return dataloader, dataset.get_label_file()
 
 
-
+'''
 class TrainDataset(data.Dataset):
     def __init__(self, root, phase='train'):
         self.root = root
@@ -141,7 +141,7 @@ class TrainDataset(data.Dataset):
     def __len__(self):
         # 66,150
         return len(self.train_meta)
-
+'''
 
 
 class TrainSampler(Sampler):
