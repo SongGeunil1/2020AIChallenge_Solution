@@ -97,6 +97,7 @@ if __name__ == '__main__':
 
     # get data loader
     # epoch 부분에서 설정 -> 경우의 수 해당 상황에서 sampling
+    # can change the number of cpu core (bottle neck)
     tmp_train_dataloader, _ = data_loader(root=DATASET_PATH, phase='train', batch_size=batch)
     # val 총 10,000개라 batch:16 -> 예외없이 다 이용
     validate_dataloader, validate_label_file = data_loader(root=DATASET_PATH, phase='validate', batch_size=16)
